@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  Catch Kenny
+//  Catch MV
 //
-//  Created by MacBook on 8/25/18.
-//  Copyright © 2018 archearete. All rights reserved.
+//
+//  Copyright © 2018. All rights reserved.
 //
 
 import UIKit
