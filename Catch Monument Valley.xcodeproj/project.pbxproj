@@ -12,6 +12,7 @@
 		FA61A66E21320B7A006B138E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA61A66C21320B7A006B138E /* Main.storyboard */; };
 		FA61A67021320B7E006B138E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA61A66F21320B7E006B138E /* Assets.xcassets */; };
 		FA61A67321320B7E006B138E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA61A67121320B7E006B138E /* LaunchScreen.storyboard */; };
+		FA61A67B21320DFC006B138E /* MV_Char1.png in Resources */ = {isa = PBXBuildFile; fileRef = FA61A67A21320DFC006B138E /* MV_Char1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FA61A66F21320B7E006B138E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA61A67221320B7E006B138E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA61A67421320B7E006B138E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA61A67A21320DFC006B138E /* MV_Char1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MV_Char1.png; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				FA61A66821320B7A006B138E /* AppDelegate.swift */,
 				FA61A66A21320B7A006B138E /* ViewController.swift */,
+				FA61A67A21320DFC006B138E /* MV_Char1.png */,
 				FA61A66C21320B7A006B138E /* Main.storyboard */,
 				FA61A66F21320B7E006B138E /* Assets.xcassets */,
 				FA61A67121320B7E006B138E /* LaunchScreen.storyboard */,
@@ -99,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = FA61A66021320B7A006B138E /* Build configuration list for PBXProject "Catch Kenny" */;
+			buildConfigurationList = FA61A66021320B7A006B138E /* Build configuration list for PBXProject "Catch MV" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA61A67B21320DFC006B138E /* MV_Char1.png in Resources */,
 				FA61A67321320B7E006B138E /* LaunchScreen.storyboard in Resources */,
 				FA61A67021320B7E006B138E /* Assets.xcassets in Resources */,
 				FA61A66E21320B7A006B138E /* Main.storyboard in Resources */,
@@ -286,7 +290,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.archearete.Catch-Kenny";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.archearete.Catch-MV";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -303,7 +307,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.archearete.Catch-Kenny";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.archearete.Catch-MV";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -313,7 +317,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FA61A66021320B7A006B138E /* Build configuration list for PBXProject "Catch Kenny" */ = {
+		FA61A66021320B7A006B138E /* Build configuration list for PBXProject "Catch MV" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FA61A67521320B7E006B138E /* Debug */,
